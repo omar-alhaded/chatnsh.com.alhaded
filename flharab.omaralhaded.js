@@ -1,4 +1,4 @@
-$(`<a id="AL-Haded" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src=""style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"title="ْعمٌرَ الُحُدِيَدِ"href="https://www.chatnsh.com"class="label-primary">Programming by Omar AL-Haded</a></div></div><center>`).insertBefore(".nav-tabs")
+$(`<a id="AL-Haded" href="chatnsh.Com"><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="asim70"src=""style="width:100%"><a id="asim27"target="_blank"type="a"rel="nofollow"title="ْعمٌرَ الُحُدِيَدِ"href="https://www.chatnsh.com"class="label-primary">Programming by Omar AL-Haded</a></div></div><center>`).insertBefore(".nav-tabs")
 
 $(".nav-tabs").addClass("fl").css("width","100%"),
 
